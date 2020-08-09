@@ -23,7 +23,7 @@ public class TestCase1 {
 	public void testCase1() {
 		
 		driver.get("http://gmail.com");
-		System.out.println("changes made just to test");
+		
 	}
 
 	@AfterSuite
